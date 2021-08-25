@@ -1,0 +1,41 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+.banner img {
+    width: 100%;
+    border-radius: 15px;
+}
+.pilih-product img {
+    max-height: 250px;
+    width: 250px;
+}
+
+.pilih-product .card {
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+.products .card {
+    border-radius: 15px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb .active {
+    font-weight: bold;
+    color: black;
+}
+
+.btn-dark {
+    border-radius: 10px;
+}
+
+.gambar-product {
+    background-color: #f1f1f1;
+    border-width: 0;
+    border-radius: 20px;
+}
